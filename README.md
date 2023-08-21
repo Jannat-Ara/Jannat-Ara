@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat-ara&label=Profile%20views&color=0e75b6&style=flat" alt="jannat-ara" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jannat ara" target="blank"><img src="https://img.shields.io/twitter/follow/jannat ara?logo=twitter&style=for-the-badge" alt="jannat ara" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jannata98952944" target="blank"><img src="https://img.shields.io/twitter/follow/@jannata98952944?logo=twitter&style=for-the-badge" alt="@jannata98952944" /></a> </p>
 
 - 🌱 I’m currently learning **Mongo DB, Node JS**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jannat ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jannat ara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jannat-ara-ferdouse-raya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jannat-ara-ferdouse-raya/" height="30" width="40" /></a>
+<a href="https://twitter.com/@jannata98952944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jannata98952944" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jannat-ara-ferdouse-raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannat-ara-ferdouse-raya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jannat_raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jannat_raya" height="30" width="40" /></a>
 </p>
 
