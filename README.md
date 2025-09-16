@@ -1,5 +1,5 @@
 <h1 align=left">Hi, I’m Jannat Ara Ferdouse Raya 👩‍💻</h1>
-<h3 align="left">A passionate Full-stack Developer from Bangladesh</h3>
+<h3 align="left">Master’s student in Applied CS @ SEMO | Ex-Software Engineer @ BJIT | Exploring AI (ML, DL, LLMs)</h3>
 <p>I’m a Full-stack Developer turned AI enthusiast from Bangladesh 🇧🇩, now pursuing my Master’s in Applied Computer Science at Southeast Missouri State University, USA.</p>
 <!--<p>I'm Jannat Ara Ferdouse Raya, a budding software enthusiast from Bangladesh. As a dedicated trainee software engineer, I'm on a relentless journey to immerse myself in the intricate world of technology. Currently, my focus is on mastering the intricacies of the MERN stack, where I'm diving deep into the intricacies of MongoDB, Express.js, React, and Node.js.But my aspirations don't stop at development alone. I'm equally captivated by the wonders of data science.</p>-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat-ara&label=Profile%20views&color=0e75b6&style=flat" alt="jannat-ara" /> </p> -->
