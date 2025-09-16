@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/@jannata98952944" target="blank"><img src="https://img.shields.io/twitter/follow/@jannata98952944?logo=twitter&style=for-the-badge" alt="@jannata98952944" /></a> </p>
 
-- 🌱 I’m currently learning **Mongo DB, Node JS**
+-  I’m currently learning **Mongo DB, Node JS**
 
-- 🤝 I’m looking for help with **Node Js, Express Js**
+-  I’m looking for help with **Node Js, Express Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jannat-Ara](https://github.com/Jannat-Ara)
+-  All of my projects are available at [https://github.com/Jannat-Ara](https://github.com/Jannat-Ara)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ML, DL**
+-  Ask me about **HTML, CSS, JavaScript, ML, DL**
 
-- 📫 How to reach me **jannatararaya1754@gmail.com**
+-  How to reach me **jannatararaya1754@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
