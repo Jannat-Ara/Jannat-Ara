@@ -1,19 +1,24 @@
-<h1 align=left">Hi 👋, I'm Jannat Ara Ferdouse Raya</h1>
+<h1 align=left">Hi, I’m Jannat Ara Ferdouse Raya 👩‍💻</h1>
 <h3 align="left">A passionate Full-stack Developer from Bangladesh</h3>
-<p>I'm Jannat Ara Ferdouse Raya, a budding software enthusiast from Bangladesh. As a dedicated trainee software engineer, I'm on a relentless journey to immerse myself in the intricate world of technology. Currently, my focus is on mastering the intricacies of the MERN stack, where I'm diving deep into the intricacies of MongoDB, Express.js, React, and Node.js.But my aspirations don't stop at development alone. I'm equally captivated by the wonders of data science.</p>
+<p>I’m a Full-stack Developer turned AI enthusiast from Bangladesh 🇧🇩, now pursuing my Master’s in Applied Computer Science at Southeast Missouri State University, USA.</p>
+<!--<p>I'm Jannat Ara Ferdouse Raya, a budding software enthusiast from Bangladesh. As a dedicated trainee software engineer, I'm on a relentless journey to immerse myself in the intricate world of technology. Currently, my focus is on mastering the intricacies of the MERN stack, where I'm diving deep into the intricacies of MongoDB, Express.js, React, and Node.js.But my aspirations don't stop at development alone. I'm equally captivated by the wonders of data science.</p>-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannat-ara&label=Profile%20views&color=0e75b6&style=flat" alt="jannat-ara" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/@jannata98952944" target="blank"><img src="https://img.shields.io/twitter/follow/@jannata98952944?logo=twitter&style=for-the-badge" alt="@jannata98952944" /></a> </p>
 
--  I’m currently learning **Mongo DB, Node JS**
-
--  I’m looking for help with **Node Js, Express Js**
-
--  All of my projects are available at [https://github.com/Jannat-Ara](https://github.com/Jannat-Ara)
-
--  Ask me about **HTML, CSS, JavaScript, ML, DL**
-
+<!---  I’m currently learning **Mongo DB, Node JS**-->
+-  **Currently learning**: Artificial Intelligence, Large Language Models (LLMs), Machine Learning, and Deep Learning
+-  **Past experience**: Full-stack development with MERN stack (MongoDB, Express.js, React, Node.js), along with Next.js, SCSS, and Tailwind CSS.
+-  **Projects**: [https://github.com/Jannat-Ara](https://github.com/Jannat-Ara)
+-  **Ask me about**: Web development (HTML, CSS, JavaScript, MERN) | AI & ML basics
+-  **Goal**: To grow into a Data Scientist / ML Engineer, and possibly pursue a Ph.D. in AI & Data Science
 -  How to reach me **jannatararaya1754@gmail.com**
+
+<!---  I’m looking for help with **Node Js, Express Js**-->
+
+<!--- -  Ask me about **HTML, CSS, JavaScript, ML, DL**-->
+
+
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
